@@ -17,8 +17,8 @@
 - apollo:   `fb5d934e8e090a2b61f267c438f5f110356f4981@65.108.72.177:36656`
 
 ### Docker Images
-- Gaia(provider): docker pull [jianhonghong/gaia:v0.2.1](jianhonghong/gaia:v0.2.1)
-- ICS(consumer): docker pull [jianhonghong/ics:v0.2.0](jianhonghong/ics:v0.2.0)
+- Gaia(provider): docker pull `jianhonghong/gaia:v0.2.1`
+- ICS(consumer): docker pull `jianhonghong/ics:v0.2.0`
 
 ### Snapshots
 Coming Soon
