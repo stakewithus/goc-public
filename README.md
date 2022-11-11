@@ -7,14 +7,14 @@
 
 ## StakeWithUs Services
 ### RPC Servers
-- provider: [http://65.108.72.177:38857/status](http://65.108.72.177:38857/status)  
-- sputnik: [http://65.108.72.177:39957/status](http://65.108.72.177:39957/status)  
-- apollo: [http://65.108.72.177:36657/status](http://65.108.72.177:36657/status) 
+- provider: [http://provider.goc.stakewith.us:38857/status](http://provider.goc.stakewith.us:38857/status)  
+- sputnik: [http://sputnik.goc.stakewith.us:39957/status](http://sputnik.goc.stakewith.us:39957/status)  
+- apollo: [http://apollo.goc.stakewith.us:36657/status](http://apollo.goc.stakewith.us:36657/status) 
 
 ### P2P Servers (Peers)
-- provider: `e97115d27a70c1bde1779ba797e40250df46e80b@65.108.72.177:38856`
-- sputnik:  `3546433cdd2cc6efda9147522878da8f023e592f@65.108.72.177:39956`
-- apollo:   `fb5d934e8e090a2b61f267c438f5f110356f4981@65.108.72.177:36656`
+- provider: `e97115d27a70c1bde1779ba797e40250df46e80b@provider.goc.stakewith.us:38856`
+- sputnik:  `3546433cdd2cc6efda9147522878da8f023e592f@sputnik.goc.stakewith.us:39956`
+- apollo:   `fb5d934e8e090a2b61f267c438f5f110356f4981@apollo.goc.stakewith.us:36656`
 
 ### Docker Images
 - Gaia(provider): docker pull `jianhonghong/gaia:v0.2.1`
