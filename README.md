@@ -20,5 +20,8 @@
 - Gaia(provider): docker pull `jianhonghong/gaia:v0.2.1`
 - ICS(consumer): docker pull `jianhonghong/ics:v0.2.0`
 
+### Relayers
+Using hermes - Coming soon 
+
 ### Snapshots
 Coming Soon
