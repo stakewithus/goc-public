@@ -3,7 +3,7 @@
 ## Useful Links
 [Docs](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022)  
 [Leader Board](https://interchainsecurity.dev/game-of-chains-2022)  
-[Block Explorer](https://provider-explorer.goc.earthball.xyz/)
+Block Explorer : [provider](https://goc-explorer.ztake.org/provider), [sputnik](https://goc-explorer.ztake.org/sputnik), [apollo](https://goc-explorer.ztake.org/apollo)
 
 ## StakeWithUs Services
 ### RPC Servers
